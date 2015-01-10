@@ -9,7 +9,7 @@ for testing app on mobile device - http://app.phonegap.com/
 phonegap serve
 ```
 
-for watching and realtime compiling coffee to js use
+for watching and realtime compiling coffee and haml use
 ```
 guard
 ```
